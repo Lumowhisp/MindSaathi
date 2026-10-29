@@ -11,8 +11,8 @@
 ---
 
 ### B. Visuospatial Assessment & Clock Drawing Test (CDT)
-3. **Automated Clock Drawing Classification (Framingham)**: *"Learning Classification Models of Cognitive Impairment from Digital Clock Drawings that Require Minimal Feature Engineering"* — Machine Learning / Healthcare Informatics |  **[Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/SouillardMandar2016_DigitalClockDrawing_ClassificationModels.pdf)**
-4. **Deep Learning for Cognitive Screening via CDT**: *"Automatic Dementia Screening and Scoring by Applying Deep Learning on Clock-Drawing Tests"* — Scientific Reports (Nature) |  **[Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/Chen2020_DeepLearning_ClockDrawing_Screening.pdf)**
+3. **Automated Clock Drawing Classification (Framingham)**: *"Learning Classification Models of Cognitive Impairment from Digital Clock Drawings that Require Minimal Feature Engineering"* — Machine Learning / Healthcare Informatics |  **[Local PDF](papers/SouillardMandar2016_DigitalClockDrawing_ClassificationModels.pdf)**
+4. **Deep Learning for Cognitive Screening via CDT**: *"Automatic Dementia Screening and Scoring by Applying Deep Learning on Clock-Drawing Tests"* — Scientific Reports (Nature) |  **[Local PDF](papers/Chen2020_DeepLearning_ClockDrawing_Screening.pdf)**
 5. **NHATS Longitudinal Assessment**: *"The National Health and Aging Trends Study: An Overview of Visuospatial and Cognitive Protocols"* — The Journals of Gerontology
 
 ---
@@ -54,10 +54,10 @@
 ---
 
 ### H. Cognitive Gaming, Interventions & Clinical Validation
-22. **Cognitive Gaming Meta-Analysis**: *"The effects of video games on cognitive function in older adults with mild cognitive impairment: a meta-analysis"* — Frontiers in Aging Neuroscience (2025) |  **[Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/Liu2025_VideoGames_MCI_MetaAnalysis.pdf)**
-23. **CTC Tri-Agent Framework**: *"A Generative AI Framework for Cognitive Intervention in Older Adults: An Integrated Engineering Design and Clinical Protocol"* — MDPI (Healthcare, 2025) |  **[Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/CTC_TriAgent_GenerativeAI_Framework_2025.pdf)**
+22. **Cognitive Gaming Meta-Analysis**: *"The effects of video games on cognitive function in older adults with mild cognitive impairment: a meta-analysis"* — Frontiers in Aging Neuroscience (2025) |  **[Local PDF](papers/Liu2025_VideoGames_MCI_MetaAnalysis.pdf)**
+23. **CTC Tri-Agent Framework**: *"A Generative AI Framework for Cognitive Intervention in Older Adults: An Integrated Engineering Design and Clinical Protocol"* — MDPI (Healthcare, 2025) |  **[Local PDF](papers/CTC_TriAgent_GenerativeAI_Framework_2025.pdf)**
 24. **Reminiscence Therapy in Dementia**: *"Reminiscence Therapy for Dementia"* — Cochrane Database of Systematic Reviews
-25. **Gamified AI & Digital Art Therapy**: *"Dementia Therapy: The Role of Gamified AI and Digital Art in Supporting Cognitive and Emotional Well-being"* — ResearchGate / Procedia Computer Science (2025) |  **[Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/GamifiedAI_DigitalArt_DementiaTherapy_2025.pdf)**
+25. **Gamified AI & Digital Art Therapy**: *"Dementia Therapy: The Role of Gamified AI and Digital Art in Supporting Cognitive and Emotional Well-being"* — ResearchGate / Procedia Computer Science (2025) |  **[Local PDF](papers/GamifiedAI_DigitalArt_DementiaTherapy_2025.pdf)**
 26. **Adaptive Cognitive Training (RL)**: *"Adaptive Cognitive Training Using Reinforcement Learning and Item Response Theory for Older Adults"* — NTU Singapore / Computers in Human Behavior
 27. **Epidemiological Context (LASI)**: *"Longitudinal Aging Study in India (LASI): Wave 1 India Report on Health, Dementia and Cognitive Aging"* — Ministry of Health and Family Welfare / IIPS
 28. **AIIMS / USC Dementia Burden Study**: *"The Prevalence of Dementia in Older Adults in India: Collaborative LASI-DAD Study Findings"* — Neuroepidemiology / AIIMS

@@ -30,7 +30,7 @@ https://doi.org/10.3389/fnagi.2025.1756970
 -   [Full
     text](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1756970/full)
 -   [PubMed record](https://pubmed.ncbi.nlm.nih.gov/41659698/)
--   [Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/Liu2025_VideoGames_MCI_MetaAnalysis.pdf)
+-   [Local PDF](papers/Liu2025_VideoGames_MCI_MetaAnalysis.pdf)
 
 **Relevance to SmritiSetu:** Recent synthesis of video-game
 interventions and cognitive outcomes in people with MCI. The review
@@ -119,7 +119,7 @@ clock-drawing tests.* (2020). *Scientific Reports.*
 
 -   [Publisher page](https://www.nature.com/articles/s41598-020-74710-9)
 -   [PubMed record](https://pubmed.ncbi.nlm.nih.gov/33257744/)
--   [Local PDF](file:///Users/aditya/Developer/Demetia/Research/papers/Chen2020_DeepLearning_ClockDrawing_Screening.pdf)
+-   [Local PDF](papers/Chen2020_DeepLearning_ClockDrawing_Screening.pdf)
 
 **Status:** This is a foundational/older reference and falls outside a
 strict 2021--2026 window. Keep it only if you need an earlier

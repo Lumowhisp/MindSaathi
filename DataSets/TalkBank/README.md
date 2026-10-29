@@ -69,4 +69,4 @@ SmritiSetu extracts the **eGeMAPS** (Extended Geneva Minimal Acoustic Parameter 
 1. **Acoustic Extraction**: Evaluates pause ratios, speech rate, and jitter during voice games (*"Katha Mala"*, *"Aji ki Kobo"*).
 2. **Hindi NLP Analysis**: Uses `IndicWhisper` to transcribe Hindi speech and evaluates vocabulary shrinkage over time.
 3. **Biological Speech-Age Gap**: Compares estimated speech age against chronological age to detect early subtle hippocampal decline.
-4. See full architecture in [SmritiSetu_Detailed_Approach.md Section 11.4](file:///Users/aditya/Developer/Demetia/SmritiSetu_Detailed_Approach.md#114-pipeline-3-speech-based-cognitive-impairment-detector-audio-ml).
+4. See full architecture in [SmritiSetu_Detailed_Approach.md Section 11.4](../../SmritiSetu_Detailed_Approach.md#114-pipeline-3-speech-based-cognitive-impairment-detector-audio-ml).
