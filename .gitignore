@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Heavy Raw Medical Image Scans (27,700+ .tif files, ~3 GB)
+# Note: Keep all CSV index files (master_longitudinal_clock_dataset.csv, labeled_clock_drawings_*.csv)
+*.tif
+*.tiff
+ClockDrawings/
+
+# Heavy Raw Survey Binaries and Fixed-Width Dumps
+*.dta
+*.sas7bdat
+*.txt
+*.zip
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv/
+env/
